@@ -1,7 +1,7 @@
-# string permutation
-To Print list of permutation of a given text
+# string permutations and combinations
+To Print list of all possible permutations and combinations of a given text
 
-**It is a dot net core console application to print all possible permutation.**
+**It is a dot net core console application**
 
 **To run:**
 - dotnet restore
