@@ -1,4 +1,4 @@
-# string_permutation
+# string permutation
 To Print list of permutation of a given text
 
 It is a dot net core console application to print all possible permutation.
